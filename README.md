@@ -8,7 +8,7 @@ We also provide the training datasets, and trained model weights at https://doi.
 
 If this work helped your research, it would be greatly appreciated if you could cite the papers in your publications.
 
-The codes are based on the implementation of Mask R-CNN by (https://github.com/matterport/Mask_RCNN) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. 
+The codes are based on the implementation of Mask R-CNN by (https://github.com/matterport/Mask_RCNN) and tfserve by (https://github.com/iitzco/tfserve) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. 
 
 ## Remarks
 I hope to continue developing 2DMMS to become a truly helpful tool for the research community of van der Waals heterostructures. Please feel free to email me with your feedback or any issues at: msatoru@iis.u-tokyo.ac.jp
