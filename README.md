@@ -4,7 +4,7 @@ This repository provides information for utilizing Deep-learning based image seg
 * "Autonomous robotic searching and assembly of two-dimensional crystals to build van der Waals superlattices," Satoru Masubuchi *et al.*, Nature Communications **9**, Article number: 1413 (2018). 
 * "Deep-Learning-Based Image Segmentation Integrated with Optical Microscopy for Automatically Searching for Two-Dimensional Materials," Satoru Masubuchi *et al.*, npj 2D Materials and Applications (in print)
 
-We also provide the training datasets, and trained model weights at https://doi.org/10.6084/m9.figshare.xxxxxxxx.
+We also provide the training datasets, and trained model weights at https://doi.org/10.6084/m9.figshare.11881053.
 
 If this work helped your research, it would be greatly appreciated if you could cite the papers in your publications.
 
