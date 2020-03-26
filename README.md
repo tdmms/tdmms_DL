@@ -1,8 +1,9 @@
 # Mask R-CNN for 2D Materials Detection
 This repository provides information for utilizing Deep-learning based image segmentation algorithms for detecting atomically thin two-dimensional materials in the optical microscopy images. The related publications are: 
 
-* "Autonomous robotic searching and assembly of two-dimensional crystals to build van der Waals superlattices," Satoru Masubuchi *et al.*, Nature Communications **9**, Article number: 1413 (2018). 
-* "Deep-Learning-Based Image Segmentation Integrated with Optical Microscopy for Automatically Searching for Two-Dimensional Materials," Satoru Masubuchi *et al.*, npj 2D Materials and Applications (in print)
+* "Autonomous robotic searching and assembly of two-dimensional crystals to build van der Waals superlattices," Satoru Masubuchi *et al.*, Nature Communications **9**, Article number: 1413 (2018). https://www.nature.com/articles/s41467-018-03723-w
+
+* "Deep-Learning-Based Image Segmentation Integrated with Optical Microscopy for Automatically Searching for Two-Dimensional Materials," Satoru Masubuchi *et al.*, npj 2D Materials and Applications **4**, 3 (2020). https://www.nature.com/articles/s41699-020-0137-z
 
 We also provide the training datasets, and trained model weights at https://doi.org/10.6084/m9.figshare.11881053.
 
